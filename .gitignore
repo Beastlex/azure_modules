@@ -1,0 +1,12 @@
+testkey*
+# Local .terraform directories
+**/.terraform/*
+*.terraform.lock.*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+
+# May contain data, such as password, private keys, and other secrets.
+*.tfvars
